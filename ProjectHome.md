@@ -1,0 +1,1 @@
+An attempt to provide API for SPOJ (http://www.spoj.pl)
